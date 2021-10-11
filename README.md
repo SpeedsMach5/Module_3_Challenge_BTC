@@ -1,2 +1,2 @@
-# Module_3_Challenge_BTC
+# Module_3_Crypto_Arbitrage
 Bitcoin Arbitrage Analysis
